@@ -1,0 +1,12 @@
+body{
+  background-image: url('../img/bgpic.png');
+}
+
+.logo a{
+  color: white !important;
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
